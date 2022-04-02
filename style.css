@@ -1,6 +1,6 @@
 *{
-    background-color: black;
-    color: orange;
+    background-color: #404040;
+    color: white;
 }
 #logo{
     width: 50px;
@@ -10,7 +10,7 @@
     text-align: center;
 }
 .bg-yellow{
-    background-color: orange;
+    background-color:yellow;
 }
 .container {
     box-sizing: border-box;
@@ -19,29 +19,57 @@
     margin-right: 50px;
     margin-left: 190px;
     display: inline-block;
-    background-color: orange;
+    background-color: yellow;
     width: 350px;
     height: 450px;
-    box-shadow: 5px 0px 15px orange;
+    box-shadow: 5px 0px 15px yellow;
     padding: 1px;
     text-align: center;
 }
 .bg-szurke{
-    background-color: black;
+    background-color: #404040;
 }
 .nav-item{
     margin-left: 50px !important;
 }
 p{
-    background-color: black;
-}
-.max-size{
-    width: 100%;
-    height: 100%;
+    background-color: #404040;
+    
 }
 .nav-link{
-    color: orange !important;
+    color: white !important;
 }
 a{
     font-size: large;
 }
+.margin-szoveg{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-green{
+    background-color: green;
+}
+.container-mini{
+    box-sizing: border-box;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 190px;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+.right {
+    display: block;
+    margin-left: auto;
+    margin-right: 200px;
+    width: 50%;
+  }
+  .max-size{
+    width: 199px;
+    height: 99px;
+  }
