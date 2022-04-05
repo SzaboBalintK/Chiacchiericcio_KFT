@@ -1,3 +1,3 @@
 # Chiacchiericcio_KFT
-bobegycig
-rolandegynig
+# bobegycig
+# rolandegynig
