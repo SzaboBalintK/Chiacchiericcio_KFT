@@ -1,5 +1,5 @@
 *{
-    background-color: #404040;
+    background-color: #404040 !important;
     color: white;
 }
 #logo{
@@ -39,6 +39,10 @@ p{
 .nav-link{
     color: white !important;
 }
+.card{
+    width: 250px !important;
+    height: 10ű50px !important;
+}
 a{
     font-size: large;
 }
@@ -52,16 +56,14 @@ a{
 .bg-green{
     background-color: green;
 }
-.container-mini{
-    box-sizing: border-box;
-    font-size: 20px;
-    margin-top: 100px;
-    margin-right: 50px;
-    margin-left: 190px;
-    display: inline-block;
-    width: 100px;
-    height: 200px;
+.button-more{
     text-align: center;
+    color: yellow;
+    border: 2px solid yellow;
+    margin-left: 45.5%;
+    margin-right: 45%;
+    width: 170px;
+    height: 50px;
 }
 .gameimg {
     display: block;
@@ -112,4 +114,9 @@ tr{
 }
 .text-left{
     margin-inline-start: 50px;
+}
+
+table{
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
