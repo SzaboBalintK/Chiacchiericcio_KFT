@@ -3,7 +3,7 @@
 # rolandegynig
 
 
-#FTP-HEZ BOBNAK:
+# FTP-HEZ BOBNAK:
 
 ip: 10.16.16.16:9997
 felhasználónév: chiacchiericcio
